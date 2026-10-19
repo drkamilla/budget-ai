@@ -1,0 +1,707 @@
+{"level":"debug","message":"[vite] connected.","timestamp":1792198143686}
+{"level":"debug","message":"[vite] connected.","timestamp":1792198154199}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198181870}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198181870}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198182137}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198182138}
+{"level":"error","message":"[vite] SyntaxError: The requested module '/src/config.ts' does not provide an export named 'wagmiConfig'","timestamp":1792198228187,"stack":"SyntaxError: The requested module '/src/config.ts' does not provide an export named 'wagmiConfig'"}
+{"level":"error","message":"[vite] Failed to reload /src/App.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792198228187}
+{"level":"error","message":"[vite] SyntaxError: The requested module '/src/config.ts' does not provide an export named 'wagmiConfig'","timestamp":1792198228188,"stack":"SyntaxError: The requested module '/src/config.ts' does not provide an export named 'wagmiConfig'"}
+{"level":"error","message":"[vite] Failed to reload /src/components/TxStatus.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792198228188}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198228188}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198228189}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792198228189}
+{"level":"error","message":"[vite] SyntaxError: The requested module '/src/config.ts' does not provide an export named 'wagmiConfig'","timestamp":1792198228196,"stack":"SyntaxError: The requested module '/src/config.ts' does not provide an export named 'wagmiConfig'"}
+{"level":"error","message":"[vite] Failed to reload /src/App.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792198228196}
+{"level":"error","message":"[vite] SyntaxError: The requested module '/src/config.ts' does not provide an export named 'wagmiConfig'","timestamp":1792198228197,"stack":"SyntaxError: The requested module '/src/config.ts' does not provide an export named 'wagmiConfig'"}
+{"level":"error","message":"[vite] Failed to reload /src/components/TxStatus.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792198228197}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198228197}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198228198}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792198228198}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198253168}
+{"level":"debug","message":"[vite] connected.","timestamp":1792198254485}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792198264677}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198264678}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792198264682}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198264682}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792198288754}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198288754}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198290246}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198290247}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198291614}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198291615}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792198291836}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198291837}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198293096}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198293096}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198293146}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198293146}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198293653}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198293654}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198294221}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198294221}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198321538}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198321539}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198321754}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198321754}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792198368863}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198368863}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792198368863}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792198368888}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198368888}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792198368888}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792198373501}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198373501}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792198373853}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198373853}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792198375598}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198375599}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792198381859}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198381859}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792198429401}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198429401}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792198429401}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792198430478}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198430478}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792198430479}
+{"level":"debug","message":"[vite] connected.","timestamp":1792198555168}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198600099}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198600100}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792198600100}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792198604335}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792198604335}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792198604335}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792198915614}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792198915614}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199006201}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792199006202}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792199006202}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199007253}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792199007254}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792199007255}
+{"level":"error","message":"[vite] SyntaxError: The requested module '/src/utils/ai.ts?t=1792199076824' does not provide an export named 'HELP_TEXT'","timestamp":1792199102825,"stack":"SyntaxError: The requested module '/src/utils/ai.ts?t=1792199076824' does not provide an export named 'HELP_TEXT'"}
+{"level":"error","message":"[vite] Failed to reload /src/components/AgentChat.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792199102826}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199102827}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199102829}
+{"level":"error","message":"[vite] SyntaxError: The requested module '/src/utils/ai.ts?t=1792199076824' does not provide an export named 'HELP_TEXT'","timestamp":1792199102840,"stack":"SyntaxError: The requested module '/src/utils/ai.ts?t=1792199076824' does not provide an export named 'HELP_TEXT'"}
+{"level":"error","message":"[vite] Failed to reload /src/components/AgentChat.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792199102841}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199102841}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199102841}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792199129051}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792199129393}
+{"level":"debug","message":"[vite] connected.","timestamp":1792199348308}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199385340}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792199385341}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792199385341}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199385341}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199386600}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792199386600}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792199386601}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199386601}
+{"level":"debug","message":"[vite] connected.","timestamp":1792199398467}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199426203}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792199466830}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792199466834}
+{"level":"debug","message":"[vite] hot updated: /src/components/GoalList.tsx","timestamp":1792199486813}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199486813}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792199497623}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199497624}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792199497635}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199497636}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199507214}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199507214}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199507432}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199507433}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199536719}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199536721}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199538566}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199538566}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199552382}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199552383}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199552407}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199552407}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199557104}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199557104}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199557110}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199557111}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199565858}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199565858}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199565860}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199565860}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199572962}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199572963}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199574957}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199574958}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199581095}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199581096}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199581171}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199581171}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199582594}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199582595}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199582632}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199582633}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199583740}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199583741}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792199583938}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199583938}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792199617385}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199617386}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792199620353}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792199620353}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792199677262}
+{"level":"debug","message":"[vite] connected.","timestamp":1792199682924}
+{"level":"debug","message":"[vite] connected.","timestamp":1792199693536}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792199915520}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792199923772}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792199985623}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792199987821}
+{"level":"debug","message":"[vite] connected.","timestamp":1792200031450}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792200050300}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792200081027}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792200113459}
+{"level":"debug","message":"[vite] connected.","timestamp":1792200116831}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792200394129}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792200394129}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792200633476}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792200857032}
+{"level":"debug","message":"[vite] hot updated: /src/components/IntroAnimation.tsx","timestamp":1792202391216}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792202391217}
+{"level":"debug","message":"(previous line repeated 2× more)","timestamp":1792202402996}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792202402996}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792202608099}
+{"level":"debug","message":"[vite] connected.","timestamp":1792202624545}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792203043368}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792203043369}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792203043369}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792203043370}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792203044864}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792203044880}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792203044885}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792203044886}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792203456660}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792203456661}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792203456662}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792203456663}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792203458139}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792203458139}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792203458139}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792203458140}
+{"level":"debug","message":"[vite] connected.","timestamp":1792203464527}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792203934902}
+{"level":"error","message":"[vite] Failed to reload /src/index.css. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792204082516}
+{"level":"error","message":"[vite] Failed to reload /src/App.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792204082570}
+{"level":"error","message":"[vite] Failed to reload /src/components/AgentChat.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792204082575}
+{"level":"error","message":"[vite] Failed to reload /src/components/TxStatus.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792204084453}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792204084455}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792204084456}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792204084456}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792204084457}
+{"level":"error","message":"[vite] Failed to reload /src/components/TxStatus.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792204084977}
+{"level":"error","message":"[vite] Failed to reload /src/components/AgentChat.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792204084977}
+{"level":"error","message":"[vite] Failed to reload /src/App.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792204084986}
+{"level":"error","message":"[vite] Failed to reload /src/index.css. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792204085302}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792204085302}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792204085303}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792204085303}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792204085303}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792204485370}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792204485371}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792204485371}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792204485372}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792204486706}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792204486706}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792204486706}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792204486707}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792204550466}
+{"level":"error","message":"[vite] SyntaxError: The requested module '/src/utils/ai.ts?t=1792204675911' does not provide an export named 'INTRO_MESSAGE'","timestamp":1792204679137,"stack":"SyntaxError: The requested module '/src/utils/ai.ts?t=1792204675911' does not provide an export named 'INTRO_MESSAGE'"}
+{"level":"error","message":"[vite] Failed to reload /src/components/AgentChat.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792204679138}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792204679138}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792204679140}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792204763397}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792204763397}
+{"level":"error","message":"Uncaught TypeError: copy.intro[lang] is not a function","timestamp":1792204763459,"source":"https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/utils/ai.ts?t=1792204675911:368:49","stack":"TypeError: copy.intro[lang] is not a function\n    at makeIntroMessage (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/utils/ai.ts?t=1792204675911:368:49)\n    at https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:51\n    at mountState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18931:28)\n    at Object.useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:19471:24)\n    at useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=ec6ca499:1351:29)\n    at AgentChat (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:35)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10558:22)"}
+{"level":"error","message":"Uncaught TypeError: copy.intro[lang] is not a function","timestamp":1792204763531,"source":"https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/utils/ai.ts?t=1792204675911:368:49","stack":"TypeError: copy.intro[lang] is not a function\n    at makeIntroMessage (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/utils/ai.ts?t=1792204675911:368:49)\n    at https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:51\n    at mountState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18931:28)\n    at Object.useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:19471:24)\n    at useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=ec6ca499:1351:29)\n    at AgentChat (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:35)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10558:22)"}
+{"level":"error","message":"The above error occurred in the <AgentChat> component:\n\n    at AgentChat (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:200:3)\n    at div\n    at MotionComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:992:40)\n    at PresenceChild (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:133:24)\n    at AnimatePresence (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:222:26)\n    at div\n    at div\n    at MotionComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:992:40)\n    at PresenceChild (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:133:24)\n    at AnimatePresence (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:222:26)\n    at App (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/App.tsx?t=1792204552723:44:25)\n    at Le (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:18793:42)\n    at Web3ContextProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:34420:30)\n    at ConnectKitProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:37910:29)\n    at QueryClientProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-WZEH4STI.js?v=ec6ca499:39:30)\n    at Hydrate (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-SBXNFTOD.js?v=ec6ca499:392:11)\n    at WagmiProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-SBXNFTOD.js?v=ec6ca499:414:11)\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://reactjs.org/link/error-boundaries to learn more about error boundaries.","timestamp":1792204763537}
+{"level":"error","message":"Unhandled promise rejection: TypeError: copy.intro[lang] is not a function\n    at makeIntroMessage (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/utils/ai.ts?t=1792204675911:368:49)\n    at https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:51\n    at mountState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18931:28)\n    at Object.useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:19471:24)\n    at useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=ec6ca499:1351:29)\n    at AgentChat (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:35)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26684:22)","timestamp":1792204763560,"stack":"TypeError: copy.intro[lang] is not a function\n    at makeIntroMessage (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/utils/ai.ts?t=1792204675911:368:49)\n    at https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:51\n    at mountState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18931:28)\n    at Object.useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:19471:24)\n    at useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=ec6ca499:1351:29)\n    at AgentChat (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:35)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26684:22)"}
+{"level":"error","message":"Uncaught TypeError: copy.intro[lang] is not a function","timestamp":1792204779821,"source":"https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/utils/ai.ts?t=1792204675911:368:49","stack":"TypeError: copy.intro[lang] is not a function\n    at makeIntroMessage (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/utils/ai.ts?t=1792204675911:368:49)\n    at https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:51\n    at mountState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18931:28)\n    at Object.useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:19471:24)\n    at useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=ec6ca499:1351:29)\n    at AgentChat (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:35)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10558:22)"}
+{"level":"error","message":"Uncaught TypeError: copy.intro[lang] is not a function","timestamp":1792204779862,"source":"https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/utils/ai.ts?t=1792204675911:368:49","stack":"TypeError: copy.intro[lang] is not a function\n    at makeIntroMessage (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/utils/ai.ts?t=1792204675911:368:49)\n    at https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:51\n    at mountState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18931:28)\n    at Object.useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:19471:24)\n    at useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=ec6ca499:1351:29)\n    at AgentChat (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:35)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10558:22)"}
+{"level":"error","message":"The above error occurred in the <AgentChat> component:\n\n    at AgentChat (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:200:3)\n    at div\n    at MotionComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:992:40)\n    at PresenceChild (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:133:24)\n    at AnimatePresence (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:222:26)\n    at div\n    at div\n    at MotionComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:992:40)\n    at PresenceChild (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:133:24)\n    at AnimatePresence (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:222:26)\n    at App (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/App.tsx?t=1792204759820:44:25)\n    at Le (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:18793:42)\n    at Web3ContextProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:34420:30)\n    at ConnectKitProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:37910:29)\n    at QueryClientProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-WZEH4STI.js?v=ec6ca499:39:30)\n    at Hydrate (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-SBXNFTOD.js?v=ec6ca499:392:11)\n    at WagmiProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-SBXNFTOD.js?v=ec6ca499:414:11)\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://reactjs.org/link/error-boundaries to learn more about error boundaries.","timestamp":1792204779876}
+{"level":"error","message":"Uncaught TypeError: copy.intro[lang] is not a function","timestamp":1792204779877,"source":"https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26344:13","stack":"TypeError: copy.intro[lang] is not a function\n    at makeIntroMessage (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/utils/ai.ts?t=1792204675911:368:49)\n    at https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:51\n    at mountState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18931:28)\n    at Object.useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:19471:24)\n    at useState (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=ec6ca499:1351:29)\n    at AgentChat (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/AgentChat.tsx?t=1792204759820:212:35)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26684:22)"}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792204805999}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792204805999}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792204862382}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792204862384}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792204874281}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792204874281}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792204947971}
+{"level":"debug","message":"[vite] connected.","timestamp":1792204978143}
+{"level":"debug","message":"[vite] hot updated: /src/components/IntroAnimation.tsx","timestamp":1792205134852}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205134853}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792205148895}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205148896}
+{"level":"debug","message":"[vite] connected.","timestamp":1792205183684}
+{"level":"debug","message":"[vite] connected.","timestamp":1792205487766}
+{"level":"debug","message":"[vite] connected.","timestamp":1792205504066}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205520720}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792205520722}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792205520723}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792205520724}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205522617}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792205522617}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792205522617}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792205522618}
+{"level":"debug","message":"[vite] hot updated: /src/components/IntroAnimation.tsx","timestamp":1792205581113}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205581114}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792205596000}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205596000}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792205596698}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205596699}
+{"level":"debug","message":"[vite] connected.","timestamp":1792205633231}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792205691439}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792205691460}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792205691867}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205772589}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792205772590}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205784442}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792205784449}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205785040}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792205785041}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205798771}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792205798772}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205799272}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792205799272}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792205869171}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205869171}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792205869829}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792205869829}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792205953354}
+{"level":"debug","message":"[vite] connected.","timestamp":1792206050030}
+{"level":"debug","message":"[vite] connected.","timestamp":1792206066941}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206069460}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792206069462}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206069470}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792206069475}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206070901}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206070903}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792206070907}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792206070908}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206129631}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792206129632}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206129633}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792206129633}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206130867}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206130867}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792206130867}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792206130868}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206259829}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792206259851}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206259851}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792206259852}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206262792}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206262792}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792206262793}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792206262793}
+{"level":"debug","message":"[vite] connected.","timestamp":1792206268284}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206530447}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792206530448}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206530451}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792206530454}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206541275}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792206541276}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206541279}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792206541279}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206560969}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792206560971}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206560971}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792206560974}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206571742}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792206571743}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206571743}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792206571743}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206604059}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792206604059}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206604060}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792206604060}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206613896}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206613898}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206617786}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206617787}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206656165}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206656167}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792206656169}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206656747}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206656748}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792206656749}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792206672181}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206672182}
+{"level":"error","message":"Uncaught TypeError: Cannot read properties of undefined (reading 'vaultBalance')","timestamp":1792206672257,"source":"https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150","stack":"TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10558:22)\n    at Object.invokeGuardedCallbackDev (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10583:24)\n    at invokeGuardedCallback (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10617:39)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26696:15)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)"}
+{"level":"error","message":"Uncaught TypeError: Cannot read properties of undefined (reading 'vaultBalance')","timestamp":1792206672288,"source":"https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150","stack":"TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10558:22)\n    at Object.invokeGuardedCallbackDev (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10583:24)\n    at invokeGuardedCallback (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10617:39)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26696:15)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)"}
+{"level":"error","message":"The above error occurred in the <HeroCard> component:\n\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:43:3)\n    at div\n    at div\n    at MotionComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:992:40)\n    at PresenceChild (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:133:24)\n    at AnimatePresence (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:222:26)\n    at App (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/App.tsx?t=1792206647436:47:25)\n    at Le (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:18793:42)\n    at Web3ContextProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:34420:30)\n    at ConnectKitProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:37910:29)\n    at QueryClientProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-WZEH4STI.js?v=ec6ca499:39:30)\n    at Hydrate (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-SBXNFTOD.js?v=ec6ca499:392:11)\n    at WagmiProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-SBXNFTOD.js?v=ec6ca499:414:11)\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://reactjs.org/link/error-boundaries to learn more about error boundaries.","timestamp":1792206672302}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26684:22)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)\n    at renderRootSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26047:15)\n    at recoverFromConcurrentError (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25664:28)\n    at performSyncWorkOnRoot (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25810:28)","timestamp":1792206672348,"stack":"TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26684:22)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)\n    at renderRootSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26047:15)\n    at recoverFromConcurrentError (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25664:28)\n    at performSyncWorkOnRoot (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25810:28)"}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792206672395}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206672395}
+{"level":"error","message":"Uncaught TypeError: Cannot read properties of undefined (reading 'vaultBalance')","timestamp":1792206672418,"source":"https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150","stack":"TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10558:22)\n    at Object.invokeGuardedCallbackDev (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10583:24)\n    at invokeGuardedCallback (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10617:39)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26696:15)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)"}
+{"level":"error","message":"Uncaught TypeError: Cannot read properties of undefined (reading 'vaultBalance')","timestamp":1792206672427,"source":"https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150","stack":"TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10558:22)\n    at Object.invokeGuardedCallbackDev (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10583:24)\n    at invokeGuardedCallback (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10617:39)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26696:15)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)"}
+{"level":"error","message":"The above error occurred in the <HeroCard> component:\n\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:43:3)\n    at div\n    at div\n    at MotionComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:992:40)\n    at PresenceChild (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:133:24)\n    at AnimatePresence (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:222:26)\n    at App (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/App.tsx?t=1792206647436:47:25)\n    at Le (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:18793:42)\n    at Web3ContextProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:34420:30)\n    at ConnectKitProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:37910:29)\n    at QueryClientProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-WZEH4STI.js?v=ec6ca499:39:30)\n    at Hydrate (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-SBXNFTOD.js?v=ec6ca499:392:11)\n    at WagmiProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-SBXNFTOD.js?v=ec6ca499:414:11)\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://reactjs.org/link/error-boundaries to learn more about error boundaries.","timestamp":1792206672431}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26684:22)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)\n    at renderRootSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26047:15)\n    at recoverFromConcurrentError (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25664:28)\n    at performSyncWorkOnRoot (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25810:28)","timestamp":1792206672461,"stack":"TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26684:22)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)\n    at renderRootSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26047:15)\n    at recoverFromConcurrentError (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25664:28)\n    at performSyncWorkOnRoot (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25810:28)"}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206697556}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206697556}
+{"level":"error","message":"Uncaught TypeError: Cannot read properties of undefined (reading 'vaultBalance')","timestamp":1792206697604,"source":"https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150","stack":"TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10558:22)\n    at Object.invokeGuardedCallbackDev (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10583:24)\n    at invokeGuardedCallback (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10617:39)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26696:15)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)"}
+{"level":"error","message":"Uncaught TypeError: Cannot read properties of undefined (reading 'vaultBalance')","timestamp":1792206697634,"source":"https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150","stack":"TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10558:22)\n    at Object.invokeGuardedCallbackDev (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10583:24)\n    at invokeGuardedCallback (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10617:39)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26696:15)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)"}
+{"level":"error","message":"The above error occurred in the <HeroCard> component:\n\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:43:3)\n    at div\n    at div\n    at MotionComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:992:40)\n    at PresenceChild (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:133:24)\n    at AnimatePresence (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:222:26)\n    at App (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/App.tsx?t=1792206696340:47:25)\n    at Le (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:18793:42)\n    at Web3ContextProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:34420:30)\n    at ConnectKitProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:37910:29)\n    at QueryClientProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-WZEH4STI.js?v=ec6ca499:39:30)\n    at Hydrate (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-SBXNFTOD.js?v=ec6ca499:392:11)\n    at WagmiProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-SBXNFTOD.js?v=ec6ca499:414:11)\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://reactjs.org/link/error-boundaries to learn more about error boundaries.","timestamp":1792206697650}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26684:22)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)\n    at renderRootSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26047:15)\n    at recoverFromConcurrentError (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25664:28)\n    at performSyncWorkOnRoot (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25810:28)","timestamp":1792206697653,"stack":"TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26684:22)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)\n    at renderRootSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26047:15)\n    at recoverFromConcurrentError (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25664:28)\n    at performSyncWorkOnRoot (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25810:28)"}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206699257}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792206699257}
+{"level":"error","message":"Uncaught TypeError: Cannot read properties of undefined (reading 'vaultBalance')","timestamp":1792206699302,"source":"https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150","stack":"TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10558:22)\n    at Object.invokeGuardedCallbackDev (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10583:24)\n    at invokeGuardedCallback (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10617:39)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26696:15)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)"}
+{"level":"error","message":"Uncaught TypeError: Cannot read properties of undefined (reading 'vaultBalance')","timestamp":1792206699330,"source":"https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150","stack":"TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10558:22)\n    at Object.invokeGuardedCallbackDev (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10583:24)\n    at invokeGuardedCallback (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:10617:39)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26696:15)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)"}
+{"level":"error","message":"The above error occurred in the <HeroCard> component:\n\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:43:3)\n    at div\n    at div\n    at MotionComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:992:40)\n    at PresenceChild (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:133:24)\n    at AnimatePresence (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/framer-motion.js?v=ec6ca499:222:26)\n    at App (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/App.tsx?t=1792206696340:47:25)\n    at Le (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:18793:42)\n    at Web3ContextProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:34420:30)\n    at ConnectKitProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=ec6ca499:37910:29)\n    at QueryClientProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-WZEH4STI.js?v=ec6ca499:39:30)\n    at Hydrate (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-SBXNFTOD.js?v=ec6ca499:392:11)\n    at WagmiProvider (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-SBXNFTOD.js?v=ec6ca499:414:11)\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://reactjs.org/link/error-boundaries to learn more about error boundaries.","timestamp":1792206699345}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26684:22)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)\n    at renderRootSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26047:15)\n    at recoverFromConcurrentError (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25664:28)\n    at performSyncWorkOnRoot (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25810:28)","timestamp":1792206699351,"stack":"TypeError: Cannot read properties of undefined (reading 'vaultBalance')\n    at HeroCard (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/src/components/HeroCard.tsx?t=1792206671165:78:150)\n    at renderWithHooks (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:18474:26)\n    at mountIndeterminateComponent (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:21852:21)\n    at beginWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:22840:22)\n    at beginWork$1 (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26684:22)\n    at performUnitOfWork (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26129:20)\n    at workLoopSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26068:13)\n    at renderRootSync (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:26047:15)\n    at recoverFromConcurrentError (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25664:28)\n    at performSyncWorkOnRoot (https://iek2z2re8uah2cq19wdag.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=ec6ca499:25810:28)"}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792206767923}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206767923}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792206767924}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792206768299}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792206768299}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792206768303}
+{"level":"debug","message":"[vite] connected.","timestamp":1792206903202}
+{"level":"debug","message":"[vite] connected.","timestamp":1792241996027}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242011617}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792242011619}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792242011619}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792242011620}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242012736}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792242012736}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792242012737}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792242012737}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792242128900}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792242241284}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792242529082}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242529083}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792242529301}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242529302}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792242586227}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242586227}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792242586389}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242586390}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792242614206}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242614207}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792242614667}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242614668}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792242658451}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242658453}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792242658454}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242658455}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792242933978}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242933979}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792242933979}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792242933979}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792242935524}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242935524}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792242935525}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792242935525}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792242935526}
+{"level":"debug","message":"[vite] connected.","timestamp":1792242945536}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792243025771}
+{"level":"debug","message":"[vite] connected.","timestamp":1792243052654}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243070491}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243070491}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792243070492}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243105309}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243105319}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792243105320}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792243105321}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243109278}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243109278}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792243109279}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243113955}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243113955}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792243113956}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243134345}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243134346}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792243134347}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243151578}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243151579}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792243151580}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243152449}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243152449}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792243152450}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243160995}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243160996}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792243161007}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243170029}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243170030}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792243170030}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243183260}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243183261}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792243183261}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243183775}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243183776}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792243183777}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243210310}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243210311}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243214945}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243214953}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243226624}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243226625}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243227393}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243227394}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792243243349}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243243350}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792243243353}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243243353}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792243586287}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792243613243}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792243614473}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243799476}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792243799477}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243799477}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792243799478}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792243804657}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243804657}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792243804658}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792243804658}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792243804659}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792243890629}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243890629}
+{"level":"debug","message":"[vite] connected.","timestamp":1792243903941}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792243909962}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243909962}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792243909972}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243909973}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792243925376}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243925376}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792243929411}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243929411}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792243969884}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243969885}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792243970563}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243970563}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792243984645}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792243984646}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792244002231}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792244002231}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792244003596}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792244003606}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792244327343}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792244473885}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792245902908}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792245902909}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792245947123}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792246273256}
+{"level":"debug","message":"[vite] connected.","timestamp":1792246317862}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792246334837}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792246334838}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792246416885}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792246416885}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792246417208}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792246417208}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792246440774}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792246440774}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792246440818}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792246440819}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792246456618}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792246456619}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792246456636}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792246456637}
+{"level":"debug","message":"[vite] connected.","timestamp":1792246548013}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792246692924}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792246692925}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792246692925}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792246692925}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792246698472}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792246698473}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792246698473}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792246698473}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792246698474}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792246826134}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792246826135}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792246839190}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792246839191}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792246839475}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792246839475}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792246842291}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792246842291}
+{"level":"debug","message":"[vite] connected.","timestamp":1792247228719}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792247403502}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247421030}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792247421033}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792247421034}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792247421034}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792247434589}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247434590}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792247434590}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792247434590}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792247434591}
+{"level":"debug","message":"[vite] connected.","timestamp":1792247456109}
+{"level":"error","message":"Uncaught TypeError: Cannot redefine property: ethereum","timestamp":1792364966934,"source":"chrome-extension://bfnaelmomeimhlpmgjnjophhpkkoljpa/evmAsk.js:15:5093","stack":"TypeError: Cannot redefine property: ethereum\n    at Object.defineProperty (<anonymous>)\n    at r.inject (chrome-extension://bfnaelmomeimhlpmgjnjophhpkkoljpa/evmAsk.js:15:5093)\n    at window.addEventListener.once (chrome-extension://bfnaelmomeimhlpmgjnjophhpkkoljpa/evmAsk.js:15:9013)"}
+{"level":"error","message":"Uncaught TypeError: Cannot redefine property: ethereum","timestamp":1792364966998,"source":"chrome-extension://bfnaelmomeimhlpmgjnjophhpkkoljpa/evmAsk.js:15:5093","stack":"TypeError: Cannot redefine property: ethereum\n    at Object.defineProperty (<anonymous>)\n    at r.inject (chrome-extension://bfnaelmomeimhlpmgjnjophhpkkoljpa/evmAsk.js:15:5093)\n    at window.addEventListener.once (chrome-extension://bfnaelmomeimhlpmgjnjophhpkkoljpa/evmAsk.js:15:9013)"}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792365028454}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792365028455}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792365028456}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792365028456}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792365029529}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792365029530}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792365029530}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792365029531}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792365029532}
+{"level":"debug","message":"[vite] connected.","timestamp":1792365046631}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792365085838}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792365085841}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792365085877}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792365085879}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792365085879}
+{"level":"debug","message":"[vite] connected.","timestamp":1792365111043}
+{"level":"error","message":"Uncaught TypeError: Cannot redefine property: ethereum","timestamp":1792365192861,"source":"chrome-extension://bfnaelmomeimhlpmgjnjophhpkkoljpa/evmAsk.js:15:5093","stack":"TypeError: Cannot redefine property: ethereum\n    at Object.defineProperty (<anonymous>)\n    at r.inject (chrome-extension://bfnaelmomeimhlpmgjnjophhpkkoljpa/evmAsk.js:15:5093)\n    at window.addEventListener.once (chrome-extension://bfnaelmomeimhlpmgjnjophhpkkoljpa/evmAsk.js:15:9013)"}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792365221704}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792365285140}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792365482873}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792365689275}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792365689276}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792365689277}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792365689279}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792365690290}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792365690291}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792365690291}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792365690291}
+{"level":"debug","message":"[vite] connected.","timestamp":1792365694182}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792365732214}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792365732214}
+{"level":"debug","message":"[vite] connected.","timestamp":1792365738332}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792365760465}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792365760467}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792365760484}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792365760496}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792365770524}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792365770525}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792365770783}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792365770784}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792366139463}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792366139464}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792366139465}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792366139465}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792366142139}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792366142141}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792366142141}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792366142141}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1792366186109}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792366186327}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792366186328}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792366186330}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1792366186333}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1792366186333}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792366188105}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792366587022}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792366588227}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792366588232}
+{"level":"debug","message":"[vite] connected.","timestamp":1792366603943}
+{"level":"debug","message":"[vite] connected.","timestamp":1792366605211}
+{"level":"debug","message":"[vite] connected.","timestamp":1792366605364}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792367043288}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792367045031}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792367045473}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367586476}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792367586478}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792367586478}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792367586479}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792367588223}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367588224}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792367588224}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792367588226}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792367588231}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792367635288}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367635289}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792367635321}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367635322}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792367695387}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367695387}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792367695388}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792367695388}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792367695389}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792367695920}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367695921}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792367695921}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792367695921}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792367695922}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792367734021}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367734022}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792367734022}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792367734023}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792367734023}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792367734491}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367734492}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792367734492}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792367734492}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792367734493}
+{"level":"debug","message":"[vite] connected.","timestamp":1792367752541}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367754158}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792367754406}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367754406}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792367754407}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792367754408}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792367754414}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792367773189}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367773189}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792367773190}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792367773190}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792367773190}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792367773796}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367773802}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792367773806}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792367773807}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792367773809}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792367796331}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367796331}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792367796332}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792367796332}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792367796333}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792367796550}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367796551}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792367796552}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792367796553}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792367796553}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792367835404}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367835404}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792367835544}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792367835544}
+{"level":"debug","message":"[vite] connected.","timestamp":1792367886033}
+{"level":"debug","message":"[vite] connected.","timestamp":1792369089261}
+{"level":"debug","message":"[vite] connected.","timestamp":1792369248289}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792369289094}
+{"level":"debug","message":"[vite] connected.","timestamp":1792369297308}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792369312603}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792369312604}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792369312604}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792369312605}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792369314663}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792369314663}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792369314663}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792369314664}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792369314665}
+{"level":"debug","message":"[vite] connected.","timestamp":1792369319212}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792369697400}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792369790296}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792369868721}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792369923574}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792369979272}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792370044166}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792370099249}
+{"level":"debug","message":"[vite] connected.","timestamp":1792370206781}
+{"level":"debug","message":"[vite] connected.","timestamp":1792370220870}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1792370237697}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792370237765}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792370237776}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792370237778}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1792370237779}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1792370237779}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792370238252}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1792370259321}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792370259322}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792370259322}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792370272149}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792370272150}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792370294050}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792370294050}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792370335107}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792370335108}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792370335108}
+{"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792370335109}
+{"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792370335110}
