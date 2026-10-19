@@ -588,7 +588,7 @@ export function AgentChat({
                   <Sparkles size={10} color="white" />
                 </div>
               )}
-              <div className="flex flex-col gap-2 max-w-[84%]">
+              <div className="flex flex-col gap-2 max-w-2xl w-full">
                 <div className="rounded-2xl px-3.5 py-2.5 text-sm leading-relaxed whitespace-pre-line"
                   style={msg.role === 'agent'
                     ? { background: 'rgba(255,255,255,0.95)', color: 'var(--ink)', border: '1px solid rgba(255,255,255,0.78)', boxShadow: '0 2px 8px rgba(0,0,0,0.04)', borderRadius: '4px 18px 18px 18px' }

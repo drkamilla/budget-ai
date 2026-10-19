@@ -705,3 +705,83 @@
 {"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792370335108}
 {"level":"debug","message":"[vite] hot updated: /src/components/HeroCard.tsx","timestamp":1792370335109}
 {"level":"debug","message":"[vite] hot updated: /src/components/LanguageSelector.tsx","timestamp":1792370335110}
+{"level":"debug","message":"[vite] connected.","timestamp":1792370467606}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371182456}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371197500}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371284508}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371284521}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371347738}
+{"level":"debug","message":"[vite] connected.","timestamp":1792371399330}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371420656}
+{"level":"debug","message":"[vite] connected.","timestamp":1792371455647}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371479290}
+{"level":"debug","message":"[vite] connected.","timestamp":1792371504066}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371594662}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371599133}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371743807}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371745042}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371839304}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371874569}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371878648}
+{"level":"debug","message":"[vite] connected.","timestamp":1792371910037}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371959021}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792371970660}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792372037319}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792372037342}
+{"level":"debug","message":"[vite] connected.","timestamp":1792372402499}
+{"level":"debug","message":"[vite] connected.","timestamp":1792372474501}
+{"level":"debug","message":"[vite] connected.","timestamp":1792372631978}
+{"level":"debug","message":"[vite] connected.","timestamp":1792372638672}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792372957363}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792372974099}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792373042071}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792373042381}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792373098294}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792373102243}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792373154273}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792373160349}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792373224807}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792373231927}
+{"level":"debug","message":"[vite] connected.","timestamp":1792373256854}
+{"level":"debug","message":"[vite] connected.","timestamp":1792373267591}
+{"level":"debug","message":"[vite] connected.","timestamp":1792373487877}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":4900,\"message\":\"Message channel disconnected\"}","timestamp":1792373594245}
+{"level":"error","message":"Unhandled promise rejection: {\"message\":\"Message channel disconnected\",\"stack\":\"MessageDisconnectedError: Message channel disconnected\\n    at chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:298227\",\"code\":4900}","timestamp":1792373594259}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":-32603,\"message\":\"Extension context invalidated.\",\"data\":{\"originalError\":{\"message\":\"Extension context invalidated.\",\"stack\":\"Error: Extension context invalidated.\\n    at BroadcastChannelMessage.listenCallback (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:299730)\\n    at BroadcastChannelMessage.onRequest (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:297467)\\n    at d.<anonymous> (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:299122)\\n    at s.emit (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:130968)\\n    at O (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:13803)\\n    at j (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:13633)\\n    at R.push (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:14417)\\n    at d._onData (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:390)\\n    at d._onMessage (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:7295)\"}}}","timestamp":1792373594289}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":-32603,\"message\":\"Extension context invalidated.\",\"data\":{\"originalError\":{\"message\":\"Extension context invalidated.\",\"stack\":\"Error: Extension context invalidated.\\n    at BroadcastChannelMessage.listenCallback (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:299730)\\n    at BroadcastChannelMessage.onRequest (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:297467)\\n    at d.<anonymous> (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:299122)\\n    at s.emit (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:130968)\\n    at O (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:13803)\\n    at j (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:13633)\\n    at R.push (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:14417)\\n    at d._onData (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:390)\\n    at d._onMessage (chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:7295)\"}}}","timestamp":1792373594320}
+{"level":"error","message":"Unhandled promise rejection: {\"message\":\"Message channel disconnected\",\"stack\":\"MessageDisconnectedError: Message channel disconnected\\n    at chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:298227\",\"code\":4900}","timestamp":1792373653020}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":4900,\"message\":\"Message channel disconnected\"}","timestamp":1792373653020}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":4900,\"message\":\"Message channel disconnected\"}","timestamp":1792373653021}
+{"level":"error","message":"Unhandled promise rejection: {\"message\":\"Message channel disconnected\",\"stack\":\"MessageDisconnectedError: Message channel disconnected\\n    at chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:298227\",\"code\":4900}","timestamp":1792373653021}
+{"level":"error","message":"Unhandled promise rejection: {\"message\":\"Message channel disconnected\",\"stack\":\"MessageDisconnectedError: Message channel disconnected\\n    at chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:298227\",\"code\":4900}","timestamp":1792373829713}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":4900,\"message\":\"Message channel disconnected\"}","timestamp":1792373829714}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":4900,\"message\":\"Message channel disconnected\"}","timestamp":1792373829714}
+{"level":"error","message":"Unhandled promise rejection: {\"message\":\"Message channel disconnected\",\"stack\":\"MessageDisconnectedError: Message channel disconnected\\n    at chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:298227\",\"code\":4900}","timestamp":1792373829715}
+{"level":"error","message":"Unhandled promise rejection: {\"message\":\"Message channel disconnected\",\"stack\":\"MessageDisconnectedError: Message channel disconnected\\n    at chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:298227\",\"code\":4900}","timestamp":1792373829743}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":4900,\"message\":\"Message channel disconnected\"}","timestamp":1792373829744}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":4900,\"message\":\"Message channel disconnected\"}","timestamp":1792373829744}
+{"level":"error","message":"Unhandled promise rejection: {\"message\":\"Message channel disconnected\",\"stack\":\"MessageDisconnectedError: Message channel disconnected\\n    at chrome-extension://acmacodkjbdgmoleebolmdjonilkdbch/content-script.js:464:298227\",\"code\":4900}","timestamp":1792373829745}
+{"level":"debug","message":"[vite] connected.","timestamp":1792373947137}
+{"level":"debug","message":"[vite] connected.","timestamp":1792373968198}
+{"level":"debug","message":"[vite] connected.","timestamp":1792373970265}
+{"level":"debug","message":"[vite] connected.","timestamp":1792373993926}
+{"level":"debug","message":"[vite] connected.","timestamp":1792374042840}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792374204008}
+{"level":"debug","message":"[vite] connected.","timestamp":1792376469253}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792376753143}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792376753166}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792376753176}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792376760609}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792404876641}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792404876643}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgentChat.tsx","timestamp":1792404897289}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792404897290}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792405909116}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792405911672}
+{"level":"debug","message":"[vite] connected.","timestamp":1792405950014}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792406155033}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792406789821}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792407180136}
+{"level":"debug","message":"[vite] connected.","timestamp":1792407200106}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792407264484}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792407352301}

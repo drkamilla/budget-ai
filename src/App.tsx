@@ -145,7 +145,7 @@ export default function App() {
             className="relative min-h-dvh"
             style={{ zIndex: 1 }}
           >
-            <div className="mx-auto max-w-md px-4 pb-10 pt-6">
+            <div className="mx-auto max-w-4xl px-6 pb-10 pt-6">
 
               {/* Header */}
               <div className="mb-5 flex items-center justify-between">
